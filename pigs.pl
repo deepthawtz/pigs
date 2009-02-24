@@ -5,7 +5,7 @@ use strict;
 use Proc::ProcessTable;
 use Getopt::Long;
 use Pod::Usage qw(pod2usage);
-# use Data::Dumper qw(Dumper);   # ugh, I looove the Dumper
+# use Data::Dumper qw(Dumper);   
 
 
 my ($cumul, $indef, $graph, $opt_help);

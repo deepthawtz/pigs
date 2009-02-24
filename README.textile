@@ -1,6 +1,0 @@
-h1. What Is This?
-
-
-An educational journey into Perl for me. 
-I learned how to use some of Perl's best offerings.
-
