@@ -2,5 +2,19 @@ What is This?
 
 An educational journey for me in Perl. 
 
-see the perldoc if you really care
+Makes use of some of Perl's best offerings:
 
+Getopt::Long + pod2usage = The Dynamic Duo (http://www.perlmonks.org/?node_id=155288)
+
+Perl6::Form - Think whatever you think about Perl. Damian Conway (http://search.cpan.org/~dconway/), (http://www.csse.monash.edu.au/~damian/) is freakin' amazing. If you have not personally seen Acme::Bleach you are missing out big time, and Acme::Morse too. Quantum::Superpositions is a trip too. Just check out this guys code. And this guy knows how to write a README like nobody's business.
+
+Proc::ProcessTable for reading /proc tables - though I don't think this is portable (?).
+
+RRD::Simple is the Perl interface to rrdtool (also required for this program).
+
+See the perldoc at the end of the source code (if you really care) for the available options. 
+
+
+TODO:
+
+- haven't got cumulative results working so "snapshots" only  
